@@ -1,0 +1,44 @@
+body
+{
+  text-align:center;
+    background-color:black;
+    color: white;
+} 
+#falcon9fullthrust
+{
+    height: 500px;
+    width:500px;
+}
+#falcon1
+{
+    height: 500px;
+    width:500px;
+    
+}
+#falconheavy
+{
+    height: 400px;
+    width:500px;
+}
+#starships
+{
+    height: 600px;
+    width:500px;
+}
+#p1
+{
+    font-size: 20px;
+}
+#p2
+{
+    font-size: 20px;
+}
+#p3
+{
+    font-size: 20px;
+}
+
+#p4
+{
+    font-size: 20px;
+}
